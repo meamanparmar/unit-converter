@@ -1,10 +1,10 @@
-# Converters
-
-![Converters project preview](https://i.postimg.cc/TPvKwML4/converters.gif)
 
 <h1 align="center" id="title">Unit Converter</h1>
 
 <p align="center"><img src="https://socialify.git.ci/meamanparmar/unit-converter/image?font=Raleway&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
+# Converters
+
+![Converters project preview](https://i.postimg.cc/TPvKwML4/converters.gif)
 
 <p id="description">This app allows you to do conversion between weight length speed and tempreature</p>
 
